@@ -1,0 +1,18 @@
+header{
+    font-family: Impact,  'Arial Narrow Bold', sans-serif;
+    color: rgb(44, 131, 44);
+    background-color: black;
+}
+
+h1{
+    text-align: center;
+    font-size: 70px;
+}
+
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode',  Verdana, sans-serif;
+    color: greenyellow;
+    background-color: black;
+    margin: 5%;
+}
+
